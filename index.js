@@ -5,7 +5,7 @@ var fs = require('fs'),
   cpus = require('os').cpus().length;
 
 var donecount = 0;
-var sendcount = 10;
+var sendcount = 100;
 var workers = [];
 
 console.error("creating "+cpus+" workers")
