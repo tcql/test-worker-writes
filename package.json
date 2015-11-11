@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "binary-split": "^0.1.2",
     "combined-stream2": "^1.1.1",
     "turf-random": "^1.0.2"
   }
